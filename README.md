@@ -1,1 +1,1 @@
-<h1><center>MCQ Generator</center></h1>
+<h1 align="center">MCQ Generator</h1>
