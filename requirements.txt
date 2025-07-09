@@ -1,0 +1,6 @@
+openai
+openrouter
+langchain
+streamlit
+python-dotenv
+PyPDF2
